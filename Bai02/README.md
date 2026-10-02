@@ -5,4 +5,4 @@
 - File code chính: `Program.cs`.
 
 ## 2. Hình ảnh kết quả chạy chương trình
-![Ảnh kết quả](ketqua.png)
+![Ảnh kết quả](ketqua.jpg)
