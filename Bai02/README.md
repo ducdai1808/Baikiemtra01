@@ -2,7 +2,7 @@
 
 ## 1. Mô tả
 - Bài làm được viết bằng ngôn ngữ C# (.NET).
-- File code chính: `Program.cs`.
+- File code chính: [Program.cs](Program.cs)
 
 ## 2. Hình ảnh kết quả chạy chương trình
 ![Ảnh kết quả 1](7.jpg)
